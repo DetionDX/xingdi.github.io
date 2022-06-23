@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Baltimore, MD. Johns Hopkins University, 2021
-* M.E. in Hoboken, NJ. Stevens Institute of Technology, 2015
-* B.E. in Chengdu, PRC. The University of Electronic Science and Technology of China, 2013
+* Ph.D in Johns Hopkins University, Baltimore, MD. 2021
+* M.E. in Stevens Institute of Technology, Hoboken, NJ. 2015
+* B.E. in The University of Electronic Science and Technology of China, Chengdu, PRC. 2013
 
 Work experience
 ======
