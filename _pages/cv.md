@@ -11,30 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Baltimore, MD. Johns Hopkins University, 2021
+* M.E. in Hoboken, NJ. Stevens Institute of Technology, 2015
+* B.E. in Chengdu, PRC. The University of Electronic Science and Technology of China, 2013
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2021: Research Scientist
+  * Protagolabs Inc.
+  * Duties included: 
+    * Leading research projects targeting at popular challenges and high-profile conferences.
+    * Implementing Cutting-edge NLP models from research in practical and scalable algorithms.
+    * Serving as key member for developing advanced analytic solutions for products.
+    * Monitoring junior team members on implementing and fine-tuning machine learning models
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Fall 2018: Research Assistant
+  * Johns Hopkins University
+  * Duties included: 
+    * Supervised and transferred from Rutgers University (2015-2018) with Prof. Vishal Patel, continue on learning and conducting machine learning/deep learning algorithm for biometric applications.
+    * The main research topics (but not limited) could be categorized as visual-attribute guided face synthesis and heterogeneous face recognition by the generative models (GANs, VAE).
+  * Supervisor: Vishal M. Patel
+
 
 Publications
 ======
@@ -54,6 +51,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service as Reviewer:
 ======
-* Currently signed in to 43 different slack teams
+* Conference paper: CVPR, ICCV, ECCV, AAAI, WACV, ICPR, ICB, BTAS, ICIP, CIBM
+* Journal paper: PR, TIP, TIFS, SPL, TBIOM, TVCJ
