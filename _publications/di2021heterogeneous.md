@@ -1,6 +1,7 @@
 ---
 title: "Heterogeneous Face Frontalization via Domain Agnostic Learning"
 collection: publications
+# permalink: /publication/di2021heterogeneous
 date: 2021-12-15
 venue: 'IEEE International Conference on Automatic Face and Gesture Recognition'
 paperurl: 'https://arxiv.org/pdf/2107.08311.pdf'
