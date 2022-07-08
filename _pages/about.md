@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Xing Di (底兴) is a Research Scientist at Protagolabs Inc.. Before joining Protagolabs, He worked/interned at PAII Inc. and Hikvision N.A.. He received the Ph.D. degree at Johns Hopkins University in 2021 advised by Prof. Vishal Patel. He received the M.E. degree at Stevens Institute of Technology in 2015. He received the B.E. degree at The University of Electronic Science and Technology of China  (Chengdu, China) in 2013. 
+Dr. Xing Di (底兴) is a Research Scientist at Protagolabs Inc.. Before joining Protagolabs, He worked/interned at PAII Inc. and Hikvision N.A.. He received the Ph.D. degree at Johns Hopkins University in 2021 advised by Prof. Vishal Patel. He received the M.E. degree at Stevens Institute of Technology in 2015. He received the B.E. degree at The University of Electronic Science and Technology of China  (Chengdu, China) in 2013. 
 <!-- I am enthusiastic in contributing to open source projects, including [D2Go Toolkit, PyTorch Encoding Toolkit, AutoGluon Toolkit, GluonCV Toolkit, Apache MXNet].  -->
 
 News

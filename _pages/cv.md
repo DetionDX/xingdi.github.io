@@ -24,13 +24,14 @@ Work experience
     * Implementing Cutting-edge NLP models from research in practical and scalable algorithms.
     * Serving as key member for developing advanced analytic solutions for products.
     * Monitoring junior team members on implementing and fine-tuning machine learning models
+  * Supervised by: [Yu Cheng](https://www.microsoft.com/en-us/research/people/yucheng1/)
 
 * Fall 2018: Research Assistant
   * Johns Hopkins University
   * Duties included: 
     * Supervised and transferred from Rutgers University (2015-2018) with Prof. Vishal Patel, continue on learning and conducting machine learning/deep learning algorithm for biometric applications.
     * The main research topics (but not limited) could be categorized as visual-attribute guided face synthesis and heterogeneous face recognition by the generative models (GANs, VAE).
-  * Supervisor: Vishal M. Patel
+  * Supervised by: [Vishal M. Patel](https://engineering.jhu.edu/vpatel36/vishal-patel/)
 
 
 Publications
