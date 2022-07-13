@@ -1,6 +1,6 @@
 ---
 title: "Deep Tattoo Recognition"
-collection: publications
+collection: papers
 permalink: /publication/di2016deeptattoo
 date: 2016-06-26
 venue: 'IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW 2016)'
