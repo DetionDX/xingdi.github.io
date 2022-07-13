@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Xing Di is a Research Scientist at Protagolabs Inc.. Before joining Protagolabs, he worked/interned at PAII Inc. and Hikvision N.A.. He received the Ph.D. degree at Johns Hopkins University in 2021 advised by Prof. Vishal Patel. He received the M.E. degree at Stevens Institute of Technology in 2015. He received the B.E. degree at The University of Electronic Science and Technology of China  (Chengdu, China) in 2013. His research interests include the deep learning, generative models and biometrics.
+Dr. Di is a Research Scientist at Protagolabs Inc.. Before joining Protagolabs, he worked/interned at PAII Inc. and Hikvision N.A.. He received the Ph.D. degree at Johns Hopkins University in 2021 advised by Prof. Vishal Patel. He received the M.E. degree at Stevens Institute of Technology in 2015. He received the B.E. degree at The University of Electronic Science and Technology of China  (Chengdu, China) in 2013. His research interests include the deep learning, generative models and biometrics.
 <!-- I am enthusiastic in contributing to open source projects, including [D2Go Toolkit, PyTorch Encoding Toolkit, AutoGluon Toolkit, GluonCV Toolkit, Apache MXNet].  -->
 
 News
 ======
-* 2022.07: One paper accepted in [ACMMM 2022](https://openreview.net/forum?id=jpqplN7zjgl) !
-* 2022.02: Two papers accepted in [AAAI 2022](https://ojs.aaai.org/index.php/AAAI/issue/view/508) !
+* 2022.07: One paper accepted in [ACMMM 2022](https://2022.acmmm.org/) !
+* 2022.02: Two papers accepted in [AAAI 2022](https://aaai.org/Conferences/AAAI-22/) !
 
 <!-- Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 

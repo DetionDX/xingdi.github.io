@@ -1,7 +1,7 @@
 ---
 title: "GP-GAN: Gender Preserving GAN for Synthesizing Faces from Landmarks"
 collection: publications
-permalink: /publication/di2018gp
+permalink: /publication/di2018gpgan
 date: 2018-08-20
 venue: 'International Conference on Pattern Recognition (ICPR 2018)'
 paperurl: 'https://arxiv.org/pdf/1710.00962.pdf'
