@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Fall 2021: Research Scientist
+* Fall 2021 - Present: Research Scientist
   * Protagolabs Inc.
   * Duties included: 
     * Leading research projects targeting at popular challenges and high-profile conferences.
@@ -26,11 +26,13 @@ Work experience
     * Monitoring junior team members on implementing and fine-tuning machine learning models
   * Supervised by: [Yu Cheng](https://www.microsoft.com/en-us/research/people/yucheng1/)
 
-* Fall 2018: Research Assistant
-  * Johns Hopkins University
+* Fall 2015 - Fall 2021: Research Assistant
+  * Fall 2018 - Fall 2021: Johns Hopkins University (transferred)
+  * Fall 2015 - Fall 2018: Rutgers, the State University of New Jersey
   * Duties included: 
-    * Supervised and transferred from Rutgers University (2015-2018) with Prof. Vishal Patel, continue on learning and conducting machine learning/deep learning algorithm for biometric applications.
+    * Advised by Prof. Vishal Patel, I was learning and conducting machine learning/deep learning algorithm for biometric applications.
     * The main research topics (but not limited) could be categorized as visual-attribute guided face synthesis and heterogeneous face recognition by the generative models (GANs, VAE).
+
   * Supervised by: [Vishal M. Patel](https://engineering.jhu.edu/vpatel36/vishal-patel/)
 
 
