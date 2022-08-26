@@ -54,7 +54,7 @@ Talks
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Service as Reviewer:
+Community Service:
 ======
-* Conference paper: CVPR, ICCV, ECCV, AAAI, WACV, ICPR, ICB, BTAS, ICIP, CIBM
+* Conference paper: CVPR, ICCV, ECCV, AAAI (PC Member), WACV, ICPR, ICB, BTAS, ICIP, CIBM
 * Journal paper: PR, TIP, TIFS, SPL, TBIOM, TVCJ
