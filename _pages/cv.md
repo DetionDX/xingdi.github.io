@@ -56,5 +56,5 @@ Talks
   
 Community Service:
 ======
-* Conference paper: CVPR, ICCV, ECCV, AAAI, WACV, ICPR, ICB, BTAS, ICIP, CIBM
-* Journal paper: PR, TIP, TIFS, SPL, TBIOM, TVCJ
+* Reviewer: CVPR, ICCV, ECCV, AAAI, WACV, ICPR, ICB, BTAS, ICIP, CIBM, PR, TIP, TIFS, SPL, TBIOM, TVCJ
+* PC member: AAAI 23, CVPR 23 
