@@ -13,6 +13,7 @@ Dr. Xing Di is a Research Scientist at [Protagolabs](https://www.protagolabs.ai/
 
 News
 ======
+* 2022.10: One paper accepted in [Findings of EMNLP 2022](https://2022.emnlp.org/) !
 * 2022.07: One paper accepted in [ACM'MM 2022](https://2022.acmmm.org/) !
 * 2022.02: Two papers accepted in [AAAI 2022](https://aaai.org/Conferences/AAAI-22/) !
 
