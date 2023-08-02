@@ -24,7 +24,7 @@ Work experience
     * Implementing Cutting-edge NLP models from research in practical and scalable algorithms.
     * Serving as key member for developing advanced analytic solutions for products.
     * Monitoring junior team members on implementing and fine-tuning machine learning models
-  * Supervised by: [Yu Cheng](https://www.microsoft.com/en-us/research/people/yucheng1/)
+  * Supervised by: [Yu Cheng](https://www.linkedin.com/in/chengyu05/)
 
 * Fall 2015 - Fall 2021: Research Assistant
   * Fall 2018 - Fall 2021: Johns Hopkins University (transferred)
