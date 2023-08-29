@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Xing Di is a Research Scientist at [Protagolabs Inc.](https://www.protagolabs.ai/#/). He received the Ph.D. degree at Johns Hopkins University in 2021 advised by Prof. [Vishal Patel](https://engineering.jhu.edu/vpatel36/vishal-patel/). Before joining Protagolabs, he worked/interned at PAII Inc. and Hikvision N.A. with Dr. [Le Lu](https://www.cs.jhu.edu/~lelu/) and Dr. [Bo Wang](https://vectorinstitute.ai/team/bo-wang/) respectively. In addition, he received the M.E. degree at Stevens Institute of Technology in 2015. He received the B.E. degree at The University of Electronic Science and Technology of China  (Chengdu, China) in 2013. His research interests include the generative models and applications in biometrics.
+Dr. Xing Di is a Research Scientist at the research unit of [Protagolabs Inc.](https://www.protagolabs.ai/#/) led by [Cheng Yu](https://www.linkedin.com/in/chengyu05/). He received the Ph.D. degree at Johns Hopkins University in 2021 advised by Prof. [Vishal Patel](https://engineering.jhu.edu/vpatel36/vishal-patel/). Before joining Protagolabs, he worked/interned at PAII Inc. and Hikvision N.A. with Dr. [Le Lu](https://www.cs.jhu.edu/~lelu/) and Dr. [Bo Wang](https://vectorinstitute.ai/team/bo-wang/) respectively. In addition, he received the M.E. degree at Stevens Institute of Technology in 2015. He received the B.E. degree at The University of Electronic Science and Technology of China  (Chengdu, China) in 2013. His research interests include the generative models and applications in biometrics. He is the core developer of applications such as [Avagi](https://www.avagi.com/), [Netmind Power](https://power.netmind.ai/#/home)
 
 
 News
 ======
-* 2023.7: Our paper [Transform-Equivariant Consistency Learning for Temporal Sentence Grounding](https://arxiv.org/pdf/2305.04123.pdf) was accepted in IEEE Transactions on Multimedia
+<!-- * 2023.7: Our paper [Transform-Equivariant Consistency Learning for Temporal Sentence Grounding](https://arxiv.org/pdf/2305.04123.pdf) was accepted in IEEE Transactions on Multimedia -->
 * 2022.11: Our paper [Hypotheses tree building for one-shot temporal sentence localization](https://arxiv.org/pdf/2301.01871.pdf) was accepted in AAAI 2023
 * 2022.10: Our paper [Rethinking the video sampling and reasoning strategies for temporal sentence grounding](https://arxiv.org/pdf/2301.00514.pdf) was accepted in Findings of EMNLP 2022
 * 2022.07: Our paper [Backdoor attacks on crowd counting](https://arxiv.org/pdf/2207.05641.pdf) accepted in ACM'MM 2022
