@@ -13,6 +13,7 @@ Dr. Xing Di is a Research Scientist at the research unit of [Protagolabs Inc.](h
 
 News
 ======
+* 2023.7: Our paper "ProS: Facial Omni-Representation Learning via Prototype-based Self-Distillation" [paper](https://arxiv.org/pdf/2305.04123.pdf) was accepted in WACV2024.
 <!-- * 2023.7: Our paper [Transform-Equivariant Consistency Learning for Temporal Sentence Grounding](https://arxiv.org/pdf/2305.04123.pdf) was accepted in IEEE Transactions on Multimedia -->
 * 2022.11: Our paper [Hypotheses tree building for one-shot temporal sentence localization](https://arxiv.org/pdf/2301.01871.pdf) was accepted in AAAI 2023
 * 2022.10: Our paper [Rethinking the video sampling and reasoning strategies for temporal sentence grounding](https://arxiv.org/pdf/2301.00514.pdf) was accepted in Findings of EMNLP 2022
