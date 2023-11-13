@@ -13,12 +13,13 @@ Dr. Xing Di is a Research Scientist at the research unit of [Protagolabs Inc.](h
 
 News
 ======
-* 2023.10: Our paper "ProS: Facial Omni-Representation Learning via Prototype-based Self-Distillation" was accepted in WACV 2024
-<!-- * 2023.7: Our paper [Transform-Equivariant Consistency Learning for Temporal Sentence Grounding](https://arxiv.org/pdf/2305.04123.pdf) was accepted in IEEE Transactions on Multimedia -->
+* 2023.10: Our paper [ProS: Facial Omni-Representation Learning via Prototype-based Self-Distillation](https://arxiv.org/pdf/2311.01929.pdf) was accepted in WACV 2024
+* 2023.7: Our paper [Transform-Equivariant Consistency Learning for Temporal Sentence Grounding](https://arxiv.org/pdf/2305.04123.pdf) was accepted in IEEE Transactions on Multimedia
 * 2022.11: Our paper [Hypotheses tree building for one-shot temporal sentence localization](https://arxiv.org/pdf/2301.01871.pdf) was accepted in AAAI 2023
 * 2022.10: Our paper [Rethinking the video sampling and reasoning strategies for temporal sentence grounding](https://arxiv.org/pdf/2301.00514.pdf) was accepted in Findings of EMNLP 2022
 * 2022.07: Our paper [Backdoor attacks on crowd counting](https://arxiv.org/pdf/2207.05641.pdf) accepted in ACM'MM 2022
-* 2022.02: Two papers [1](https://ojs.aaai.org/index.php/AAAI/article/view/20058/19817) & [2](https://ojs.aaai.org/index.php/AAAI/article/download/20060/19819) accepted in AAAI 2022
+<!-- * 2022.02: Two papers [1](https://ojs.aaai.org/index.php/AAAI/article/view/20058/19817) & [2](https://ojs.aaai.org/index.php/AAAI/article/download/20060/19819) accepted in AAAI 2022 -->
+
 
 <!-- Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
